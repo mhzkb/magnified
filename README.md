@@ -6,4 +6,3 @@
 ## KLE
 ![KLE](https://github.com/user-attachments/assets/b8fcdc61-1105-4e26-8fed-98487fa4a0d9)
 
-### Please note the PCB has not yet been confirmed to work - Use at your own risk.
